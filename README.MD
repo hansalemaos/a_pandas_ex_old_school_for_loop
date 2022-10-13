@@ -3,7 +3,7 @@
 #### Usage - DataFrame
 
 ```python
-pip install 
+pip install a-pandas-ex-old-school-for-loop
 ```
 
 ```python
